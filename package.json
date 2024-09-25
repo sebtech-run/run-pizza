@@ -1,0 +1,12 @@
+{
+  "name": "run-pizza",
+  "version": "1.0.0",
+  "description": "PROJET RUN-PIZZA",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server",
+    "dev":"http-server"
+  },
+  "author": "sebtech",
+  "license": "ISC"
+}

@@ -1,0 +1,77 @@
+
+[
+    {
+        "id": 1,
+        "nom": "La Royale",
+        "prix": 10,
+        "categorie": "Pizza",
+        "image": "./public/images/royale.jpg",
+        "description": "Pizza avec jambon de porc, champignons et fromage"
+    },
+    {
+        "id": 2,
+        "nom": "La Margherita",
+        "prix": 12,
+        "categorie": "Pizza",
+        "image": "./public/images/marghet.jpg",
+        "description": "Sauce tomate à l'origan et mozzarella"
+
+    },
+    {
+        "id": 3,
+        "nom": "La 4 fromages",
+        "prix": 13,
+        "categorie": "Pizza",
+        "image": "./public/images/fromage.jpg",
+        "description": "Sauce tomate à l'origan, mozzarella, fromage de chèvre, emmental et Fourme d'Ambert AOP"
+    },
+    {
+        "id": 4,
+        "nom": "La Queen",
+        "prix": 15,
+        "categorie": "Pizza",
+        "image": "./public/images/queen.jpg",
+        "description": "Sauce tomate à l'origan, mozzarella, jambon et champignons frais"
+    },
+    {
+        "id": 5,
+        "nom": "L'Orientale",
+        "prix": 14,
+        "categorie": "Pizza",
+        "image": "./public/images/orient.jpg",
+        "description": "Sauce tomate à l'origan, mozzarella, merguez et champignons frais"
+    },
+    {
+        "id": 6,
+        "nom": "La Végétarienne",
+        "prix": 15,
+        "categorie": "Pizza",
+        "image": "./public/images/veget.jpg",
+        "description": "Sauce tomate à l'origan, mozzarella, champignons frais, oignons rouges frais, poivrons verts frais, tomates fraîches et Olives noires"
+    },
+    {
+        "id": 7,
+        "nom": "La Kebab",
+        "prix": 14,
+        "categorie": "Pizza",
+        "image": "./public/images/kebab.jpg",
+        "description": "Sauce tomate à l'origan, mozzarella, émincé de poulet kebab, tomates fraîches, oignons rouges frais et sauce blanche kebab"
+    },
+    {
+        "id": 8,
+        "nom": "La Nordique",
+        "prix": 15,
+        "categorie": "Pizza",
+        "image": "./public/images/nordique.jpg",
+        "description": "Crème fraîche légère, mozzarella et saumon fumé de Norvège"
+    },
+    {
+        "id": 9,
+        "nom": "La Suprême",
+        "prix": 15,
+        "categorie": "Pizza",
+        "image": "./public/images/supreme.jpg",
+        "description": "Sauce tomate à l'origan, mozzarella, émietté au boeuf, saucisse pepperoni, champignons frais, oignons rouges frais et poivrons verts frais"
+    }
+
+]

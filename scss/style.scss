@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 16px;
+    padding: 8px;
+    background-color: darkgrey;
+    text-align: center;
+
+    img {
+        height: 250px;
+        border-radius: 10px;
+
+    }
+
+    h1 {
+
+        flex-grow: 1;
+        font-size: 3rem;
+
+    }
+}
+
+.fiches {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    width: 90%;
+    margin: auto;
+
+}
+
+article {
+
+    img {
+        border-radius: 10px;
+    }
+
+    h2 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 2.5rem;
+        font-weight: 700;
+    }
+
+
+    p {
+        width: 500px;
+        font-size: 2rem;
+    }
+}
